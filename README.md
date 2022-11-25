@@ -1,1 +1,1 @@
-This is DGBlocksLite's Website!
+This is DGBlocks Lite's Website!
